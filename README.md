@@ -9,10 +9,10 @@
 
 <div/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cauzy-dev&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   ㅤ<img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-dev&layout=donut&theme=merko&langs_count=6" />
 </a>
 
